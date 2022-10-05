@@ -1,0 +1,1 @@
+SADs são capazes de transformar dados em informação a conhecimento útil aos tomadores de decisão. SAD é um componente básico no desenvolvimento de uma arquitetura de BI.

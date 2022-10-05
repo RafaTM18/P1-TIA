@@ -1,0 +1,1 @@
+Um Sistema de Apoio à Decisão é uma aplicação computacional iterativa que combina dados e modelos matemáticos e/ou estatísticos para ajudar os tomadores de decisão a resolverem problemas complexos ou tomarem decisões complexas em organizações públicas e privadas.
